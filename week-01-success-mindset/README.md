@@ -33,7 +33,11 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
+One belief I strongly hold is that consistency is far more important than talent, even though many people around me believe natural talent determines success. I’ve seen people wait until they feel “ready” or “motivated,” but I believe progress comes from showing up every day, even when you don’t feel like it. In my experience, small, repeated actions—especially in tech and learning—compound over time and lead to real mastery.
+
+Most people prefer shortcuts or bursts of effort, but I’ve found that disciplined, boring routines outperform inspiration. For example, regularly practicing a skill like scripting, cloud configuration, or troubleshooting builds deeper understanding than occasional intense study sessions. This mindset has helped me stay focused on long-term growth rather than quick wins.
+
+While this belief may sound simple, many disagree because it requires patience and delayed gratification, which is difficult in a fast-paced world. However, I believe those who embrace consistency ultimately outperform those relying only on talent or motivation.
 
 ---
 
