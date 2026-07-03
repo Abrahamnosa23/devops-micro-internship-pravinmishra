@@ -13,17 +13,17 @@
 
 | | |
 |---|---|
-| **Name** | Pravin Mishra |
-| **LinkedIn** | [pravin-mishra-aws-trainer](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) |
-| **Location** | Helsinki, Finland |
-| **Background** | Cloud, DevOps & AI Consultant |
-| **Goal** | Train 10,000+ DevOps professionals |
+| **Name** | Abraham Aigbokhan |
+| **LinkedIn** | [Abraham Aigbokhan LinkedIn](https://www.linkedin.com/in/pravin-mishra-aws-trainer/](https://www.linkedin.com/in/abraham-aigbokhan-3abb28214/) |
+| **Location** | Abuja, Nigeria |
+| **Background** | IT Infrastructure, AWS Solution Architect, DevOps & Security |
+| **Goal** | Become a professional DevOps Engineer |
 
 ---
 
 ## About the Program
 
-**DevOps Micro Internship with Agentic AI** is a 15-week mentor-led cohort program by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) — Cloud, DevOps & AI consultant with 15+ years of experience, 5,000+ learners trained, and 20K+ LinkedIn followers.
+**Abraham Aigbokhan** is an IT Infrastructure & Security Manager with a vision to become one of Africa's leading AI Infrastructure Engineers. Leveraging deep expertise in Microsoft 365, Azure, AWS, cybersecurity, cloud architecture, and DevOps, he is committed to building the resilient, secure, and automated infrastructure that will power the continent's AI-driven future.
 
 This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
 
@@ -132,8 +132,8 @@ This is not a course. It is an internship-style program — real deployments, re
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw | https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html |
 | 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
 | 03 | Linux for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
 | 04 | Bash Scripting | ⬜ Not Started | ⏳ Pending | — | — |
