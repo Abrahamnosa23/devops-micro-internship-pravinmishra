@@ -33,9 +33,9 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-One belief I strongly hold is that consistency is far more important than talent, even though many people around me believe natural talent determines success. I’ve seen people wait until they feel “ready” or “motivated,” but I believe progress comes from showing up every day, even when you don’t feel like it. In my experience, small, repeated actions—especially in tech and learning—compound over time and lead to real mastery.
+One belief I strongly hold is that consistency is far more important than talent, even though many people around me believe natural talent determines success. I have seen people wait until they feel **ready** or **motivated** but I believe progress comes from showing up every day, even when you don’t feel like it. In my experience, small, repeated actions  especially in tech and learning compound over time and lead to real mastery.
 
-Most people prefer shortcuts or bursts of effort, but I’ve found that disciplined, boring routines outperform inspiration. For example, regularly practicing a skill like scripting, cloud configuration, or troubleshooting builds deeper understanding than occasional intense study sessions. This mindset has helped me stay focused on long-term growth rather than quick wins.
+Most people prefer shortcuts or bursts of effort, but I have found that disciplined, boring routines outperform inspiration. For example, regularly practicing a skill like scripting, cloud configuration, or troubleshooting builds deeper understanding than occasional intense study sessions. This mindset has helped me stay focused on long-term growth rather than quick wins.
 
 While this belief may sound simple, many disagree because it requires patience and delayed gratification, which is difficult in a fast-paced world. However, I believe those who embrace consistency ultimately outperform those relying only on talent or motivation.
 
@@ -161,6 +161,8 @@ By the end of the decade, Abraham Aigbokhan was not just managing infrastructure
 ### Public Link
 
 Paste your link here:
+
+[Article Link](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
 
 [Article Link](https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html)
 
@@ -337,7 +339,29 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
+**Mon – Thu (Core Growth Days)**
+- 60 minutes deep work (early morning or after work)
+  - 30 mins: Learning (DevOps, AI infrastructure, security)
+  - 30 mins: Hands-on practice (scripts, automation, labs)
+
+**Friday (Light + Reflection)**
+- 30–45 minutes:
+  - Review what you learned during the week
+  - Write 1–2 key insights (notes or journal)
+
+**Saturday (Build + Output Day)**
+- 2–3 hours:
+  - Work on real projects (GitHub, infrastructure setups)
+  - Improve or complete one system/project
+
+**Sunday (Review + Planning)**
+- 45–60 minutes:
+  - Weekly review:
+    - What did I learn?
+    - What did I build?
+  - Plan next week:
+    - 1 learning goal
+    - 1 output/project goal
 
 ---
 
@@ -345,11 +369,13 @@ Add your answer here...
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+- Daily: Learn + Practice
+- Weekly: Build something small
+- Monthly: Deliver 1 real output (project, automation, or documentation)
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+- 6 sessions per week
 
 ---
 
@@ -363,7 +389,40 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
+- Phone Rules
+  - No phone usage during deep work sessions (1-hour blocks are strictly distraction-free)
+  - Phone stays on silent or focus mode during 5AM learning time
+  - No social media before completing daily learning/practice session
+  - Notifications turned off except for urgent work-related contacts
+
+- Social Media Rules
+  - Social media allowed only after daily deep work is completed
+  - No random scrolling, only intentional use (learning, tech updates, or communication)
+  - Maximum 20–30 minutes per day (strict cap)
+  - Unfollow or mute accounts that do not align with your goals (AI, DevOps, infrastructure, growth)
+
+- Work & Learning Focus Rules
+  - One task per session (no multitasking during deep work)
+  - If distracted, immediately return to task within 10 seconds (rule of awareness)
+  - Always define one clear goal before starting each session
+  - No switching tasks unless the current one is completed or blocked
+
+- Environment Setup Rules
+  - Dedicated workspace for learning/building (clean, minimal setup)
+  - Laptop tabs limited to only what is needed (no clutter)
+  - Use headphones or quiet environment to improve focus
+  - Keep a small notebook nearby to dump distracting thoughts quickly
+
+- Time Discipline Rules
+  - 5AM wake-up routine respected at least 4–5 days per week
+  - Deep work sessions treated like non-negotiable meetings
+  - No skipping Saturday build session unless absolutely necessary
+  - If a day is missed, resume immediately next day
+
+- Mental Discipline Rules (Your Edge)
+  - No mood-based work. I work based on schedule, not feelings
+  - I will Prioritize long-term impact over short-term comfort
+  - If i am tempted to cut corners, i will remind myself that I am building systems that must scale, I don’t build weak foundations.
 
 ---
 
@@ -371,28 +430,42 @@ Add your answer here...
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+I realized that structure and discipline matter more than motivation. When I planned my work clearly, I stayed focused and productive, but without structure, I got distracted.
+I also learned that my success depends on consistent routines, not occasional effort. Even small, repeated actions led to noticeable progress.
+Overall, my biggest insight is that building systems and habits not relying on feelings is what will help me grow into my future goal, especially in DevOps.
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+My biggest weakness is falling into cycles of inconsistency when I don’t follow a clear structure. I noticed that when I skip my planned routine even once, it becomes easier to delay, get distracted, or lose momentum. This often leads to a loop of starting strong, slowing down, and then trying to restart again.
+I also observed that distractions, especially from my phone or unplanned activities, break my focus and reduce the quality of my deep work. Instead of continuing with discipline, I sometimes rely on how I feel in the moment, which affects my consistency.
+This loop made me realize that my main challenge is not ability, but staying disciplined and sticking to the systems I set for myself.
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I will implement a daily deep work system every morning from 5:00 AM to 7:00 AM, Monday to Thursday.
+During this time:
+  - 5:00 – 5:30 AM: Focused learning DevOps
+  - 5:30 – 7:00 AM: Hands-on practice scripts, labs, or system setup
+
+This session will be distraction-free:
+  - Phone on silent / no social media
+  - One clear task defined before starting
+
+This will be a non-negotiable habit, treated like an important meeting with myself. Even if I miss a day, I will resume immediately the next day without breaking the system.
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+[LinkedIn Post](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
-- Blog / Medium : **ADD LINK HERE**  
+- LinkedIn Post URL: **[Article Link](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)**
+
+- Blog / Medium : **https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html**  
 
 ---
 
@@ -401,7 +474,6 @@ Paste your LinkedIn post link here:
 DevOps Micro Internship (DMI) is a project-based DevOps program run by Pravin Mishra (The CloudAdvisory) focused on real-world execution, systems thinking, and career readiness.
 
 It helps learners build strong DevOps foundations with hands-on experience.
-
 
 ## 📌 Resources
 
