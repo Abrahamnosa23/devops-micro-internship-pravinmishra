@@ -14,7 +14,7 @@
 | | |
 |---|---|
 | **Name** | Abraham Aigbokhan |
-| **LinkedIn** | [Abraham Aigbokhan LinkedIn](https://www.linkedin.com/in/pravin-mishra-aws-trainer/](https://www.linkedin.com/in/abraham-aigbokhan-3abb28214/) |
+| **LinkedIn** | [Abraham Aigbokhan LinkedIn](https://www.linkedin.com/in/abraham-aigbokhan-3abb28214/) |
 | **Location** | Abuja, Nigeria |
 | **Background** | IT Infrastructure, AWS Solution Architect, DevOps & Security |
 | **Goal** | Become a professional DevOps Engineer |
@@ -66,14 +66,14 @@ This is not a course. It is an internship-style program — real deployments, re
 
 **Your stack (uncomment each badge as you earn it):**
 
-<!-- Week 00 → Internet & Networking Basics -->
-<!-- [![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/) -->
+Week 00 → Internet & Networking Basics
+[![Week 00 – Networking](./badges/week-00.svg)](./week-00-internet-and-networking/)
 
-<!-- Week 01 → Success Mindset -->
-<!-- [![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/) -->
+Week 01 → Success Mindset
+[![Week 01 – Mindset](./badges/week-01.svg)](./week-01-success-mindset/)
 
-<!-- Week 02 → Agentic AI with Claude Code -->
-<!-- [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/) -->
+Week 02 → Agentic AI with Claude Code
+[![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
 <!-- Week 03 → Linux for DevOps -->
 <!-- [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/) -->
