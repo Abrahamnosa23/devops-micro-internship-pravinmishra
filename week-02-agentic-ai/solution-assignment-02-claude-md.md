@@ -66,13 +66,13 @@ Verify that Claude’s behavior changes after adding `CLAUDE.md` by running a ne
 
 #### Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
 
-Add your screenshot here.
+![Screenshot 01 task 4 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2001%20task%204%20Ass%202.png)
 
 ---
 
 #### Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
-Add your screenshot here.
+![Screenshot 02 task 4 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2002%20task%204%20Ass%202.png)
 
 ---
 
@@ -113,8 +113,8 @@ Paste your forked repository URL here:
 ✅ Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
 ✅ Screenshot 2 shows the auto-generated `/init` output <br>
 ✅ Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
-[ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
-[ ] Screenshot 5 shows Claude refusing the React request <br>
+✅ Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
+✅ Screenshot 5 shows Claude refusing the React request <br>
 ✅ Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
 ✅ GitHub repository URL is included in the submission <br>
 
