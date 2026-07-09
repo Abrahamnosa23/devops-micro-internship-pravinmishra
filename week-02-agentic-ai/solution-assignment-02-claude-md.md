@@ -20,7 +20,9 @@ Capture Claude’s response before `CLAUDE.md` exists in the project to establis
 
 #### Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
-Add your screenshot here.
+![Screenshot 01 task 1 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2001%20task%201%20Ass%202.png)
+
+![Screenshot 02 task 1 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2002%20task%201%20Ass%202.png)
 
 ---
 
@@ -34,7 +36,9 @@ Generate an initial `CLAUDE.md` file using the `/init` command and review the au
 
 #### Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
-Add your screenshot here.
+![Screenshot 01 task 2 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2001%20task%202%20Ass%202.png)
+
+![Screenshot 02 task 2 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2002%20task%202%20Ass%202.png)
 
 ---
 
@@ -48,7 +52,7 @@ Update the generated `CLAUDE.md` file by adding project-specific instructions ac
 
 #### Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
-Add your screenshot here.
+![Screenshot 01 task 3 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2001%20task%203%20Ass%202.png)
 
 ---
 
@@ -82,7 +86,9 @@ Commit the `CLAUDE.md` file and push it to your GitHub fork so the project instr
 
 #### Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
-Add your screenshot here.
+![Screenshot 01 task 5 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2001%20task%205%20Ass%202.png)
+
+![Screenshot 02 task 5 Ass 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-02/Screenshot%2002%20task%205%20Ass%202.png)
 
 ---
 
@@ -98,19 +104,19 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+![Forked repository URL](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra)
 
 ---
 
 # Completion Checklist
 
-[ ] Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
-[ ] Screenshot 2 shows the auto-generated `/init` output <br>
-[ ] Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
+✅ Screenshot 1 shows a generic Claude response (no CLAUDE.md)<br>
+✅ Screenshot 2 shows the auto-generated `/init` output <br>
+✅ Screenshot 3 shows all 5 sections in your customized CLAUDE.md <br>
 [ ] Screenshot 4 shows Claude mentioning S3, CloudFront, and Terraform <br>
 [ ] Screenshot 5 shows Claude refusing the React request <br>
-[ ] Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
-[ ] GitHub repository URL is included in the submission <br>
+✅ Screenshot 6 shows `CLAUDE.md` committed and visible in your GitHub repository <br>
+✅ GitHub repository URL is included in the submission <br>
 
 ---
 
