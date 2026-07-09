@@ -79,7 +79,7 @@ Interact with Claude Code and observe how it performs the Agentic Loop (Gather â
 
 Paste your forked repository URL here:
 
-`https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/`
+`[forked repository URL](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/)`
 
 ---
 
