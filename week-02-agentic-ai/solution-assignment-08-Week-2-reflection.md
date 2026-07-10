@@ -46,7 +46,11 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+![Screenshot 8.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-08/Screenshot%208.png)
+
+![Screenshot 8-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-08/Screenshot%208-1.png)
+
+![Screenshot 8-2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-08/Screenshot%208-2.png)
 
 ---
 
@@ -54,7 +58,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`__________________________________________`
+[LinkedIn Article](https://www.linkedin.com/pulse/reflection-week-2-building-smarter-workflows-agentic-ai-aigbokhan-kkvye)
 
 ---
 
@@ -92,7 +96,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Screenshot 2026-07-10 194118.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-08/Screenshot%202026-07-10%20194118.png)
 
 ---
 
@@ -100,15 +104,31 @@ Add your screenshot here.
 
 LinkedIn Post Content (copy-paste here):
 
-```
-Paste your LinkedIn post content here
-```
+Week 2 Reflection – DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+
+This week took my understanding of AI far beyond simple prompting and content generation. I explored how Agentic AI can be integrated into real engineering workflows using tools like Claude Code, Hooks, Memory, Permissions, and Subagents.
+
+One of the most interesting concepts for me was learning how to use Hooks to enforce safety controls and prevent risky actions before they are executed. As someone working in Infrastructure and Security, it was fascinating to see how governance and security principles can be built directly into AI workflows.
+
+I also explored Claude's Memory system, where project-specific rules and configurations can persist across sessions. Seeing Claude recall saved project information after a complete session reset demonstrated how AI can become more consistent and context-aware over time.
+
+Perhaps my biggest takeaway from Week 2 is that successful AI adoption is not just about powerful models—it requires structure, guardrails, permissions, memory, and well-defined workflows. These are the same principles that make infrastructure and security systems reliable at scale.
+
+One challenge I faced was overcoming tooling and subscription-related hurdles, but working through these obstacles reinforced the importance of persistence, problem-solving, and continuous learning.
+
+Looking forward to applying these concepts in real-world DevOps, Cloud, and Security projects as I continue my journey into Agentic AI.
+
+Screenshot attached from my Week 2 assignment demonstrating Claude Code Memory and project rule enforcement.
+
+#DMIByPravinMishra #AgenticAI #ClaudeCode #DevOps #LearningInPublic #AWS #Terraform #CloudComputing #InfrastructureAsCode #CyberSecurity
+
+P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by Pravin Mishra. You can start your DevOps journey by joining this Discord community ( https://discord.pravinmishra.com/ ).
 
 ---
 
 ### LinkedIn Post Link:
 
-`__________________________________________`
+[LinkedIn Post URL](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_dmibypravinmishra-agenticai-claudecode-ugcPost-7481416896030912512-i5kM/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
 
 ---
 
@@ -124,15 +144,15 @@ Paste your LinkedIn post content here
 
 # Completion Checklist
 
-* [ ] Blog written with required structure
-* [ ] Blog includes at least 2–3 Week 2 topics
-* [ ] Blog is publicly accessible
-* [ ] LinkedIn post created
-* [ ] Required P.S. line included
-* [ ] LinkedIn post content copied in submission field
-* [ ] Blog link added
-* [ ] LinkedIn post link added
-* [ ] Screenshots added to GitHub repo
+* ✅ Blog written with required structure
+* ✅ Blog includes at least 2–3 Week 2 topics
+* ✅ Blog is publicly accessible
+* ✅ LinkedIn post created
+* ✅ Required P.S. line included
+* ✅ LinkedIn post content copied in submission field
+* ✅ Blog link added
+* ✅ LinkedIn post link added
+* ✅ Screenshots added to GitHub repo
 
 ---
 
