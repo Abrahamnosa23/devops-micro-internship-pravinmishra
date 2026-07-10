@@ -20,7 +20,9 @@ Identify where Claude Code stores memory for this project.
 
 #### Screenshot 1 — Memory file path shown by Claude
 
-Add your screenshot here.
+![Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%201.png)
+
+![Screenshot 1-2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%201-2.png)
 
 ---
 
@@ -34,13 +36,13 @@ Store project-specific rules and configurations into Claude’s memory and verif
 
 #### Screenshot 2 — Claude confirming the memory was saved
 
-Add your screenshot here.
+![Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%202.png)
 
 ---
 
 #### Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
-Add your screenshot here.
+![Screenshot 2-2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%202-2.png)
 
 ---
 
@@ -54,7 +56,9 @@ Terminate the current Claude Code session and restart it to ensure memory is the
 
 #### Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
-Add your screenshot here.
+![Screenshot 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%203.png)
+
+![Screenshot 3-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%203-1.png)
 
 ---
 
@@ -68,13 +72,15 @@ Verify that Claude correctly recalls stored memory after a full session reset.
 
 #### Screenshot 5 — Claude recalling hero section colors
 
-Add your screenshot here.
+![Screenshot 4.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%204.png)
+
+![Screenshot 4-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%204-1.png)
 
 ---
 
 #### Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
-Add your screenshot here.
+![Screenshot 6.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-02-agentic-ai/screenshots/Assignment-07/Screenshot%206.png)
 
 ---
 
@@ -91,19 +97,21 @@ Add your screenshot here.
 
 Paste your forked repository URL here:
 
-`__________________________`
+[forked repository URL](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra)
+
+[forked repository URL](https://github.com/Abrahamnosa23/Ultimate-Agentic-DevOps-with-Claude-Code)
 
 ---
 
 # Completion Checklist
 
-- [ ] Memory file path identified (Screenshot 1)
-- [ ] Memory successfully saved via prompt (Screenshot 2)
-- [ ] `MEMORY.md` shows stored content (Screenshot 3)
-- [ ] Fresh session opened after full restart (Screenshot 4)
-- [ ] Claude recalled hero colors correctly (Screenshot 5)
-- [ ] Claude refused JavaScript request based on memory (Screenshot 6)
-- [ ] All screenshots added and committed to GitHub repo
+- ✅ Memory file path identified (Screenshot 1)
+- ✅ Memory successfully saved via prompt (Screenshot 2)
+- ✅ `MEMORY.md` shows stored content (Screenshot 3)
+- ✅ Fresh session opened after full restart (Screenshot 4)
+- ✅ Claude recalled hero colors correctly (Screenshot 5)
+- ✅ Claude refused JavaScript request based on memory (Screenshot 6)
+- ✅ All screenshots added and committed to GitHub repo
 
 ---
 
