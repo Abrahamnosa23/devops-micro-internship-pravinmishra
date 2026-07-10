@@ -96,7 +96,9 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
-[Ultimate-Agentic-DevOps-with-Claude-Code](https://github.com/pravinmishraaws/Ultimate-Agentic-DevOps-with-Claude-Code)
+[forked repository URL](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra)
+
+[forked repository URL](https://github.com/Abrahamnosa23/Ultimate-Agentic-DevOps-with-Claude-Code)
 
 ---
 
