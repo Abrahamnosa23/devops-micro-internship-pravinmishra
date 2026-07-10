@@ -100,7 +100,9 @@ Verify MCP functionality by retrieving real-time data from your GitHub account u
 
 Paste your forked repository URL here:
 
-`__________________________`
+[forked repository URL](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra)
+
+[forked repository URL](https://github.com/Abrahamnosa23/Ultimate-Agentic-DevOps-with-Claude-Code)
 
 ---
 
