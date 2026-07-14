@@ -65,21 +65,76 @@ e. Introduction to Cloud Security Concepts
 These concepts are especially relevant for DevOps and infrastructure roles.
 
 An AWS account is a fundamental requirement for learning modern cloud-based DevOps practices. It provides:
-    - A realistic environment for deploying Linux servers
-    - The ability to host and manage web applications
-    - A platform to gain hands-on experience with cloud infrastructure, scalability, and security
+- A realistic environment for deploying Linux servers
+- The ability to host and manage web applications
+- A platform to gain hands-on experience with cloud infrastructure, scalability, and security
     
 ---
 
 #### Question 2 — What is AWS Free Tier, and how long does it last?
 
-Write your answer here.
+The AWS Free Tier is a program provided by Amazon Web Services that allows users, especially learners like those in my DevOps cohort, to explore and use AWS cloud services at little or no cost within defined limits. It is designed to support hands-on learning by giving access to real cloud infrastructure without requiring upfront payment. Through the Free Tier, I am able to experiment with key services such as virtual servers and storage while practicing real-world tasks like deploying and managing web applications.
+
+The AWS Free Tier includes different types of benefits that support learning and experimentation, including:
+
+- Free usage credits that can be applied across various AWS services
+- Limited free access to selected services, within specified usage limits
+- Always Free services, which provide ongoing free usage every month within certain limits
+
+In terms of duration, the AWS Free Tier is not limited to a single fixed timeframe but is structured in different components. For new users, there is a Free account plan, which allows usage of AWS services without charges for:
+
+- Up to six months, or
+- Until the allocated credits are fully used, whichever comes first
+
+Beyond this initial period, AWS continues to offer Always Free services, which:
+
+- Provide free monthly usage limits
+- Remain available for as long as the account is active
+
+Additionally, some AWS services include short-term trial offers, which are available for a limited time after activation.
+
+Overall, the AWS Free Tier is important for me at this stage because it allows me to gain practical experience with Linux servers, install web servers, and host applications in a real cloud environment while managing costs. However, it also requires careful monitoring of usage to avoid exceeding limits and incurring charges.
 
 ---
 
 #### Question 3 — Name three AWS Free Tier services and their free usage limits.
 
-Write your answer here.
+Under the AWS Free Tier, several services are available to help users practice and build applications within defined usage limits. Three common examples are:
+
+1. Amazon EC2 (Elastic Compute Cloud)
+
+- Provides virtual servers for running applications
+- Free Tier limit includes:
+    - Up to 750 hours per month of a t2.micro or t3.micro instance
+
+This is important for my DevOps learning because it allows me to create and manage Linux servers for hosting web applications.
+
+2. Amazon S3 (Simple Storage Service)
+
+- Used for storing files, backups, and static websites
+- Free Tier limit includes:
+    - 5 GB of standard storage
+    - 20,000 GET requests per month
+    - 2,000 put requests per month
+
+This can be used to store website files, application data, or backups.
+
+3. AWS Lambda
+
+- A serverless compute service used to run code without managing servers
+- Free Tier limit includes:
+    - 1 million requests per month
+    - Plus free compute time within limits
+
+This is useful for automation tasks and backend processing in modern DevOps environments.
+
+These AWS Free Tier services (EC2, S3, and Lambda) provide essential building blocks for cloud computing. They allow learners like me to:
+
+- Practice deploying Linux servers
+- Store and manage application data
+- Run code without managing infrastructure
+
+All within free usage limits, making them ideal for hands-on DevOps training.
 
 ---
 
