@@ -33,34 +33,34 @@ Finally, an AWS account supports billing and cost tracking, where every resource
 At this stage of learning where the focus is on Linux, web servers, and DevOps practices, an AWS account is essential for the following reasons:
 
 a. Access to Real Cloud-Based Linux Servers
-    - AWS provides services like EC2, which allow you to launch and manage Linux-based virtual machines.
-    - This enables hands-on practice of:
-        - Installing web servers (e.g., Nginx, Apache)
-        - Managing server configurations in a real environment
+- AWS provides services like EC2, which allow you to launch and manage Linux-based virtual machines.
+- This enables hands-on practice of:
+    - Installing web servers (e.g., Nginx, Apache)
+    - Managing server configurations in a real environment
         
 b. Ability to Host Web Applications on the Internet
-    - Web hosting requires infrastructure such as:
-        - Servers
-        - Public IP addresses
-        - Network connectivity
-    - AWS provides all of these components, enabling applications to be deployed and accessed globally.
+- Web hosting requires infrastructure such as:
+    - Servers
+    - Public IP addresses
+    - Network connectivity
+- AWS provides all of these components, enabling applications to be deployed and accessed globally.
     
 c. Exposure to Real-World DevOps Practices
-    - Modern DevOps workflows are built on cloud platforms like AWS.
-    - Using an AWS account allows learners to:
-        - Provision infrastructure
-        - Deploy applications
-        - Manage environments (development, testing, production)
+- Modern DevOps workflows are built on cloud platforms like AWS.
+- Using an AWS account allows learners to:
+    - Provision infrastructure
+    - Deploy applications
+    - Manage environments (development, testing, production)
         
 d. Learning Scalability and High Availability
-    - AWS enables systems to scale according to demand, which is not possible with a local machine.
-    - This is critical for understanding how production systems handle real users and traffic.
+- AWS enables systems to scale according to demand, which is not possible with a local machine.
+- This is critical for understanding how production systems handle real users and traffic.
     
 e. Introduction to Cloud Security Concepts
-    - AWS accounts expose learners to important security principles such as:
-      - Identity and access control (IAM)
-      - Network isolation
-      - Resource-level permissions
+- AWS accounts expose learners to important security principles such as:
+    - Identity and access control (IAM)
+    - Network isolation
+    - Resource-level permissions
       
 These concepts are especially relevant for DevOps and infrastructure roles.
 
