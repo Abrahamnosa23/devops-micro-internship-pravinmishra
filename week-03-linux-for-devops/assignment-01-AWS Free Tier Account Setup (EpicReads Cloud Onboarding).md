@@ -158,7 +158,9 @@ Confirm that your AWS account setup is complete by navigating to the Account sec
 
 #### Screenshot 1 — AWS Account page showing account name (email may be blurred)
 
-Add your screenshot here.
+![Week 3 - Assignment 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-for-devops/screenshots/Week%203%20-%20Assignment%201.png)
+
+
 
 ---
 
@@ -172,11 +174,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1 answers written in own words
-- [ ] AWS Free Tier account created successfully
-- [ ] Signed in to AWS Management Console
-- [ ] Screenshot of AWS Account page captured (full name visible, no sensitive data)
-- [ ] All required screenshots added to repository
+- ✅ Task 1 answers written in own words
+- ✅ AWS Free Tier account created successfully
+- ✅ Signed in to AWS Management Console
+- ✅ Screenshot of AWS Account page captured (full name visible, no sensitive data)
+- ✅ All required screenshots added to repository
 
 ---
 
