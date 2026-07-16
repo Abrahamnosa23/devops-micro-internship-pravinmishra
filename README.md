@@ -3,11 +3,8 @@
 ![Cohort](https://img.shields.io/badge/Cohort-3-blue?style=for-the-badge)
 ![Program](https://img.shields.io/badge/DevOps_Micro_Internship-Pravin_Mishra-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-In_Progress-yellow?style=for-the-badge)
-<<<<<<< HEAD
+
 ![Weeks](https://img.shields.io/badge/Weeks_Completed-4%2F15-green?style=for-the-badge)
-=======
-![Weeks](https://img.shields.io/badge/Weeks_Completed-0%2F14-green?style=for-the-badge)
->>>>>>> upstream/main
 
 > 👋 **New here?** Read the [submission instructions](./onboarding) first — how to fork, fill in, and submit your assignments.
 > Find all the required links & assignment guidelines from here [Required links](./dmi_cohort3_resources.md)
@@ -28,11 +25,7 @@
 
 ## About the Program
 
-<<<<<<< HEAD
 **Abraham Aigbokhan** is an IT Infrastructure & Security Manager with a vision to become one of Africa's leading AI Infrastructure Engineers. Leveraging deep expertise in Microsoft 365, Azure, AWS, cybersecurity, cloud architecture, and DevOps, he is committed to building the resilient, secure, and automated infrastructure that will power the continent's AI-driven future.
-=======
-**DevOps Micro Internship with Agentic AI** is a 14-week mentor-led cohort program by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/) — Cloud, DevOps & AI consultant with 15+ years of experience, 5,000+ learners trained, and 20K+ LinkedIn followers.
->>>>>>> upstream/main
 
 This is not a course. It is an internship-style program — real deployments, real pipelines, real evidence reviewed by mentors every week.
 
@@ -57,7 +50,7 @@ This is not a course. It is an internship-style program — real deployments, re
 
 <!-- Add your cohort leaderboard rank here as you progress -->
 
-> 🥇 Cohort 3 Rank: **# 15** <!-- Update this each week -->
+> 🥇 Cohort 3 Rank: **#15** <!-- Update this each week -->
 
 ---
 
@@ -84,13 +77,9 @@ Week 01 → Success Mindset
 Week 02 → Agentic AI with Claude Code
 [![Week 02 – Agentic AI](./badges/week-02.svg)](./week-02-agentic-ai/)
 
-<<<<<<< HEAD
 Week 03 → Linux for DevOps
 [![Week 03 – Linux](./badges/week-03.svg)](./week-03-linux-for-devops/)
-=======
-<!-- Week 03 → Linux & Bash for DevOps -->
-<!-- [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) -->
->>>>>>> upstream/main
+
 
 <!-- Week 04 → Git & GitHub -->
 <!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
@@ -143,7 +132,7 @@ Week 03 → Linux for DevOps
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-<<<<<<< HEAD
+
 | 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw | https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_dmibypravinmishra-agenticai-claudecode-ugcPost-7481416896030912512-i5kM/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw | https://www.linkedin.com/pulse/reflection-week-2-building-smarter-workflows-agentic-ai-aigbokhan-kkvye |
@@ -159,22 +148,6 @@ Week 03 → Linux for DevOps
 | 12 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
 | 13 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
 | 14 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
-=======
-| 00 | Internet & Networking Basics | ⬜ Not Started | ⏳ Pending | — | — |
-| 01 | Success Mindset | ⬜ Not Started | ⏳ Pending | — | — |
-| 02 | Agentic AI with Claude Code | ⬜ Not Started | ⏳ Pending | — | — |
-| 03 | Linux & Bash for DevOps | ⬜ Not Started | ⏳ Pending | — | — |
-| 04 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
-| 05 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
-| 06 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 07 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
-| 08 | Terraform | ⬜ Not Started | ⏳ Pending | — | — |
-| 09 | Ansible | ⬜ Not Started | ⏳ Pending | — | — |
-| 10 | Azure DevOps (CI/CD) | ⬜ Not Started | ⏳ Pending | — | — |
-| 11 | Docker | ⬜ Not Started | ⏳ Pending | — | — |
-| 12 | Kubernetes | ⬜ Not Started | ⏳ Pending | — | — |
-| 13 | Final Project | ⬜ Not Started | ⏳ Pending | — | — |
->>>>>>> upstream/main
 
 **Status:** ⬜ Not Started &nbsp;|&nbsp; 🔄 In Progress &nbsp;|&nbsp; ✅ Completed<br>
 **Assignment:** ⏳ Pending &nbsp;|&nbsp; ✅ Solved
