@@ -20,7 +20,7 @@ Verify the Ubuntu VM and Nginx are ready for deployment.
 
 #### Screenshot 0 — Output of `sudo systemctl status nginx --no-pager` showing Active (running)
 
-Add your screenshot here.
+![Week 3 - Assignment 4 0](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%200.png)
 
 ---
 
@@ -34,7 +34,7 @@ Download and extract the portfolio website template.
 
 #### Screenshot 1 — Output of `ls -la` showing the extracted project folder
 
-Add your screenshot here.
+![Week 3 - Assignment 4 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%201.png)
 
 ---
 
@@ -48,7 +48,9 @@ Update the website footer with your deployment details.
 
 #### Screenshot 2 — Nano editor open with the updated footer showing your Full Name, Group, Week, and Date
 
-Add your screenshot here.
+![Week 3 - Assignment 4 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%202.png)
+
+![Week 3 - Assignment 4 21.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%2021.png)
 
 ---
 
@@ -62,13 +64,13 @@ Deploy the portfolio website to the Nginx web root.
 
 #### Screenshot 3 — Output of `sudo nginx -t` showing configuration test successful
 
-Add your screenshot here.
+![Week 3 - Assignment 4 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%203.png)
 
 ---
 
 #### Screenshot 4 — Output of `ls /var/www/html` showing deployed website files
 
-Add your screenshot here.
+![Week 3 - Assignment 4 31.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%2031.png)
 
 ---
 
@@ -82,13 +84,13 @@ Verify the deployed website is publicly accessible and the footer contains your 
 
 #### Screenshot 5 — Output of `curl ifconfig.me` showing the server's public IP address
 
-Add your screenshot here.
+![Week 3 - Assignment 4 4.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%204.png)
 
 ---
 
 #### Screenshot 6 — Browser showing the live website with your Full Name and deployment details in the footer
 
-Add your screenshot here.
+![Week 3 - Assignment 4 4 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%204%201.png)
 
 ---
 
@@ -102,13 +104,13 @@ Verify the deployed website and Nginx service are healthy.
 
 #### Screenshot 7 — Output of `systemctl is-enabled nginx`
 
-Add your screenshot here.
+![Week 3 - Assignment 4 5.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%205.png)
 
 ---
 
 #### Screenshot 8 — Output of `curl -I http://localhost` showing 200 OK
 
-Add your screenshot here.
+![Week 3 - Assignment 4 5 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/Week%203%20-%20Assignment%204%205%201.png)
 
 ---
 
@@ -120,13 +122,13 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+[LinedIn Post URL](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_devops-linux-nginx-activity-7484143330667241472-j6K-?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
 
 ---
 
 #### Screenshot — Published LinkedIn post showing the live website with your Full Name in the footer
 
-Add your screenshot here.
+![LinkedIn post screenshot.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-03-linux-and-bash-for-devops/screenshots/assignment-04/LinkedIn%20post%20screenshot.png)
 
 ---
 
@@ -141,18 +143,18 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Screenshot 0: Nginx service status (active/running)
-- [ ] Screenshot 1: Website files downloaded and extracted
-- [ ] Screenshot 2: Footer updated with Full Name, Group, Week, and Date
-- [ ] Screenshot 3: Nginx configuration test successful
-- [ ] Screenshot 4: Website files deployed to /var/www/html
-- [ ] Screenshot 5: Public IP retrieved
-- [ ] Screenshot 6: Live website accessible in browser with footer details
-- [ ] Screenshot 7: Nginx enabled on boot
-- [ ] Screenshot 8: Local HTTP response returns 200 OK
-- [ ] LinkedIn post published and URL submitted
-- [ ] Full Name visible in all required screenshots
-- [ ] No sensitive data exposed
+- ✅ Screenshot 0: Nginx service status (active/running)
+- ✅ Screenshot 1: Website files downloaded and extracted
+- ✅ Screenshot 2: Footer updated with Full Name, Group, Week, and Date
+- ✅ Screenshot 3: Nginx configuration test successful
+- ✅ Screenshot 4: Website files deployed to /var/www/html
+- ✅ Screenshot 5: Public IP retrieved
+- ✅ Screenshot 6: Live website accessible in browser with footer details
+- ✅ Screenshot 7: Nginx enabled on boot
+- ✅ Screenshot 8: Local HTTP response returns 200 OK
+- ✅ LinkedIn post published and URL submitted
+- ✅ Full Name visible in all required screenshots
+- ✅ No sensitive data exposed
 
 ---
 
