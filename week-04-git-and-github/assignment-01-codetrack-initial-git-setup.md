@@ -34,7 +34,9 @@ Add your screenshot here.
 
 **1. What is the `.git` folder, and why does it matter?**
 
-Add your answer here.
+The .git folder is a hidden directory created when a Git repository is initialized. It contains all the metadata, commit history, branches, tags, configuration files, and tracking information that Git uses to manage and version-control a project.
+
+It matters because the .git folder is what makes a directory a Git repository. Without it, Git would not be able to track changes, store commit history, manage branches, or collaborate with remote repositories such as GitHub. In other words, the project files are the content, while the .git folder stores the complete history and information needed to manage that content over time.
 
 ---
 
@@ -76,11 +78,11 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
-- [ ] Explanation of the `.git` folder written in your own words
-- [ ] Local `user.name` and `user.email` configured and verified (Screenshot 3)
-- [ ] Global `user.name` and `user.email` configured and verified (Screenshot 4)
-- [ ] No sensitive data exposed
+- ✅ `CodeTrack` folder created and initialized as a Git repository (Screenshots 1–2)
+- ✅ Explanation of the `.git` folder written in your own words
+- ✅ Local `user.name` and `user.email` configured and verified (Screenshot 3)
+- ✅ Global `user.name` and `user.email` configured and verified (Screenshot 4)
+- ✅ No sensitive data exposed
 
 ---
 
