@@ -20,7 +20,9 @@ Start from a clean default branch (`main` or `master`) and confirm the repositor
 
 #### Screenshot 1 — Output of `git status` and `git branch` showing a clean status and the default branch checked out
 
-Add your screenshot here.
+![Assignment-03 Screenshot 01.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2001.png)
+
+![Assignment-03 Screenshot 01-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2001-1.png)
 
 ---
 
@@ -34,7 +36,9 @@ Create a branch named exactly `feature/contact-page` and switch to it.
 
 #### Screenshot 2 — Output of `git checkout -b feature/contact-page` and `git branch` showing `* feature/contact-page`
 
-Add your screenshot here.
+![Assignment-03 Screenshot 02.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2002.png)
+
+![Assignment-03 Screenshot 02-2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2002-2.png)
 
 ---
 
@@ -48,19 +52,19 @@ Create `contact.html` with the provided content and commit it alone using the me
 
 #### Screenshot 3 — Output of `ls` showing `contact.html`
 
-Add your screenshot here.
+![Assignment-03 Screenshot 03.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2003.png)
 
 ---
 
 #### Screenshot 4 — Output of `git commit`
 
-Add your screenshot here.
+![Assignment-03 Screenshot 04.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2004.png)
 
 ---
 
 #### Screenshot 5 — Output of `git log --oneline -3` showing the new commit
 
-Add your screenshot here.
+![Assignment-03 Screenshot 05.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2005.png)
 
 ---
 
@@ -74,19 +78,19 @@ Add the provided Contact Page link to `index.html` and commit it separately usin
 
 #### Screenshot 6 — Output of `git status` showing `index.html` as modified before staging
 
-Add your screenshot here.
+![Assignment-03 Screenshot 06.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2006.png)
 
 ---
 
 #### Screenshot 7 — Output of `git commit`
 
-Add your screenshot here.
+![Assignment-03 Screenshot 07.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2007.png)
 
 ---
 
 #### Screenshot 8 — Browser showing the Contact Page link on the homepage while on `feature/contact-page`
 
-Add your screenshot here.
+![Assignment-03 Screenshot 08.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2008.png)
 
 ---
 
@@ -100,13 +104,15 @@ Switch back to the default branch and confirm that `contact.html` and the Contac
 
 #### Screenshot 9 — Terminal showing the checkout and `ls` output, proving `contact.html` is absent
 
-Add your screenshot here.
+![Assignment-03 Screenshot 09.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2009.png)
+
+![Assignment-03 Screenshot 09-9.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2009-9.png)
 
 ---
 
 #### Screenshot 10 — Browser showing the homepage on the default branch with no Contact Page link
 
-Add your screenshot here.
+![Assignment-03 Screenshot 10.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2010.png)
 
 ---
 
@@ -120,19 +126,21 @@ Merge `feature/contact-page` into your default branch and confirm the Contact pa
 
 #### Screenshot 11 — Output of `git merge feature/contact-page`
 
-Add your screenshot here.
+![Assignment-03 Screenshot 11.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2011.png)
 
 ---
 
 #### Screenshot 12 — Output of `ls` showing `contact.html` after the merge
 
-Add your screenshot here.
+![Assignment-03 Screenshot 12.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2012.png)
 
 ---
 
 #### Screenshot 13 — Browser showing the Contact page opened from the homepage link on the default branch
 
-Add your screenshot here.
+![Assignment-03 Screenshot 13.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2013.png)
+
+![Assignment-03 Screenshot 13-13.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2013-13.png)
 
 ---
 
@@ -146,7 +154,7 @@ Display the repository history as a graph and locate both feature commits.
 
 #### Screenshot 14 — Full output of `git log --oneline --graph --decorate --all`
 
-Add your screenshot here.
+![Assignment-03 Screenshot 14.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2014.png)
 
 ---
 
@@ -160,7 +168,7 @@ Delete the merged `feature/contact-page` branch to keep your branch list clean.
 
 #### Screenshot 15 (Optional) — Output showing `feature/contact-page` deleted and no longer listed
 
-Add your screenshot here.
+![Assignment-03 Screenshot 15.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-03/Assignment-03%20Screenshot%2015.png)
 
 ---
 
