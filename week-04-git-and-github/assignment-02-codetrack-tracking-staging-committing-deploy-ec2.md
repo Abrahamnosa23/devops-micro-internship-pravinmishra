@@ -164,7 +164,7 @@ Add your screenshot here.
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+(https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_devops-aws-ec2-share-7488031529021980672-OuAY/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
 
 ---
 
