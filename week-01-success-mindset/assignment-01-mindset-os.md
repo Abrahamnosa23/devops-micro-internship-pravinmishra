@@ -135,7 +135,7 @@ Write as if a journalist is writing about you **3 to 7 years from now** (not 20 
 
 Include this line:
 
-> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/YOUR-GITHUB-USERNAME.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
+> **P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). My graded progress is public: https://dmi.pravinmishra.com/s/Abrahamnosa23.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ## Your Article
 
@@ -162,13 +162,9 @@ By the end of the decade, Abraham Aigbokhan was not just managing infrastructure
 
 Paste your link here:
 
-<<<<<<< HEAD:week-01-success-mindset/README.md
-[Article Link](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
+https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw
 
-[Article Link](https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html)
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-01-success-mindset/assignment-01-mindset-os.md
+https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html
 
 ---
 
@@ -461,17 +457,13 @@ This will be a non-negotiable habit, treated like an important meeting with myse
 
 Paste your LinkedIn post link here:
 
-<<<<<<< HEAD:week-01-success-mindset/README.md
-[LinkedIn Post](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-01-success-mindset/assignment-01-mindset-os.md
+https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **[Article Link](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)**
+- LinkedIn Post URL: **https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw**
 
 - Blog / Medium : **https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html**  
 
