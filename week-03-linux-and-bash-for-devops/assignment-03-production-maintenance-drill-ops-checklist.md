@@ -425,7 +425,7 @@ Removing unnecessary resources helps organizations control spending, maintain a 
 
 Paste your LinkedIn post URL here:
 
-[LinkedIn post URL](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_dmi-cohort-4-live-micro-internship-waiting-share-7483983525290106881-edRb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
+https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_dmi-cohort-4-live-micro-internship-waiting-share-7483983525290106881-edRb/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw
 
 ---
 
