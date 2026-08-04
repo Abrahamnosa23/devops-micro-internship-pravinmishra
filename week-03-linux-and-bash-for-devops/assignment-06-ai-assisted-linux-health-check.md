@@ -490,7 +490,7 @@ The Bash report represents the Gather phase because it collected evidence from t
 
 Paste your LinkedIn post URL here:
 
-[LinkedIn Post URL](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_devops-agenticai-linux-ugcPost-7486138173211750402-472O/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
+https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_devops-agenticai-linux-ugcPost-7486138173211750402-472O/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw
 
 ---
 
@@ -504,7 +504,7 @@ Paste your LinkedIn post URL here:
 
 Paste the URL of your GitHub folder or repository containing the assignment files here:
 
-[GitHub Folder Containing Assignment](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/tree/main/week-03-linux-and-bash-for-devops)
+https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/tree/main/week-03-linux-and-bash-for-devops
 
 ---
 
