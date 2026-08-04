@@ -421,7 +421,7 @@ This final script combines several important Bash concepts into one program. It 
 
 Paste your LinkedIn post URL here:
 
-[LinkedIn Post URL](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_devops-linux-bash-ugcPost-7485121049366392832-VvNB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
+https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_devops-linux-bash-ugcPost-7485121049366392832-VvNB/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw
 
 ---
 
