@@ -156,7 +156,7 @@ Beyond technical delivery, he contributed to growing the ecosystem by mentoring 
 
 By the end of the decade, Abraham Aigbokhan was not just managing infrastructure—he was helping define how AI infrastructure was built, secured, and scaled in Africa. His work positioned him among the early engineers who contributed to the foundation of a rapidly growing technological ecosystem that continues to evolve.
 
-**P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) ( https://discord.pravinmishra.com/ ).**
+**P.S. This post is part of the DevOps Micro Internship (DMI) with Agentic AI — Cohort 3 — by Pravin Mishra. My graded progress is public: https://dmi.pravinmishra.com/s/Abrahamnosa23.html · Start your DevOps journey: https://dmi.pravinmishra.com/?utm_source=student&utm_medium=ps-blog&utm_campaign=cohort3**
 
 ### Public Link
 
