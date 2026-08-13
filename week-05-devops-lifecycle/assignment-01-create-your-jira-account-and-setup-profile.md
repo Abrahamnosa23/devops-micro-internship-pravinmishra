@@ -20,7 +20,9 @@ Create or access your Jira Cloud account and reach the Jira Software workspace s
 
 #### Screenshot 1 — Jira welcome page, dashboard, or main workspace after successful login, with your name or avatar visible
 
-Add your screenshot here.
+![Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-01/Screenshot%201.png)
+
+![Screenshot 1-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-01/Screenshot%201-1.png)
 
 ---
 
@@ -46,6 +48,8 @@ If you signed up with Google and no separate email verification was required, in
 
 Add any additional notes here.
 
+I signed up using Google, and Atlassian did not require separate email verification.
+
 ---
 
 # Task 3 — Set Up Your Professional Jira Profile
@@ -58,7 +62,7 @@ Update your Jira profile with your full name, a job title or role (e.g. "Aspirin
 
 #### Screenshot 3 — Updated profile page showing your full name, role/title, and bio
 
-Add your screenshot here.
+![Screenshot 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-01/Screenshot%203.png)
 
 ---
 
@@ -72,13 +76,13 @@ Locate the project list and open a project's Board or Backlog, and view Project 
 
 #### Screenshot 4 — "View all projects" page showing at least one project
 
-Add your screenshot here.
+![Screenshot 4.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-01/Screenshot%204.png)
 
 ---
 
 #### Screenshot 5 — Opened project showing either the Board or Backlog screen
 
-Add your screenshot here.
+![Screenshot 5.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-01/Screenshot%205.png)
 
 ---
 
@@ -94,13 +98,13 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Jira Software Cloud account created or existing account accessed (Screenshot 1)
-- [ ] Task 2: Email verification completed, or a Google sign-in note included (Screenshot 2 or Notes)
-- [ ] Task 3: Professional profile updated with full name, role/title, and bio (Screenshot 3)
-- [ ] Task 4: Projects page, Board or Backlog, and Project settings explored without making changes (Screenshots 4 & 5)
-- [ ] No Jira issues created
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- ✅ Task 1: Jira Software Cloud account created or existing account accessed (Screenshot 1)
+- ✅ Task 2: Email verification completed, or a Google sign-in note included (Screenshot 2 or Notes)
+- ✅ Task 3: Professional profile updated with full name, role/title, and bio (Screenshot 3)
+- ✅ Task 4: Projects page, Board or Backlog, and Project settings explored without making changes (Screenshots 4 & 5)
+- ✅ No Jira issues created
+- ✅ Full Name visible in required screenshots
+- ✅ No sensitive data exposed
 
 ---
 
