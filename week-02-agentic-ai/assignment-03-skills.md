@@ -100,14 +100,8 @@ Paste your forked repository URL here:
 
 Paste your forked repository URL here:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-03-skills.md
-[forked repository URL](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra)
+[https://github.com/Abrahamnosa23/Ultimate-Agentic-DevOps-with-Claude-Code.git](https://github.com/Abrahamnosa23/Ultimate-Agentic-DevOps-with-Claude-Code.git)
 
-[forked repository URL](https://github.com/Abrahamnosa23/Ultimate-Agentic-DevOps-with-Claude-Code)
-
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-03-skills.md
 ---
 
 # Completion Checklist
