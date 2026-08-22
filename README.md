@@ -133,7 +133,7 @@ Week 03 → Linux for DevOps
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
 
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_pravin-mishra-the-cloudadvisory-linkedin-activity-7443248268572061697-m_Nl?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw | https://realin4mat.blogspot.com/2026/08/from-packets-to-production-my-first.html |
 | 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_abraham-aigbokhan-20-2030-ten-years-ago-share-7478896601588158465-mhGm/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw | https://realin4mat.blogspot.com/2026/06/abraham-aigbokhan-20.html |
 | 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_dmibypravinmishra-agenticai-claudecode-ugcPost-7481416896030912512-i5kM/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw | https://www.linkedin.com/pulse/reflection-week-2-building-smarter-workflows-agentic-ai-aigbokhan-kkvye |
 | 03 | Linux for DevOps | 🔄 In Progress | ⏳ Pending | — | — |
