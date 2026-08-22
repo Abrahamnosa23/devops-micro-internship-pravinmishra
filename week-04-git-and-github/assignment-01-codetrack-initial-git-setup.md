@@ -20,13 +20,13 @@ Create a `CodeTrack` project folder and initialize it as a Git repository.
 
 #### Screenshot 1 — Output of `git init` inside `CodeTrack` showing "Initialized empty Git repository"
 
-Add your screenshot here.
+[Assignment 1 Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-01/Assignment%201%20Screenshot%201.png)
 
 ---
 
 #### Screenshot 2 — Output of `ls -a` showing the `.git` folder
 
-Add your screenshot here.
+[Assignment 1 Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-01/Assignment%201%20Screenshot%202.png)
 
 ---
 
@@ -50,7 +50,7 @@ Set your Git username and email for the `CodeTrack` repository only, using `git 
 
 #### Screenshot 3 — Output of `git config --local --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+[Assignment 1 Screenshot 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-01/Assignment%201%20Screenshot%203.png)
 
 ---
 
@@ -64,7 +64,7 @@ Set a global Git username and email for this machine using `git config --global`
 
 #### Screenshot 4 — Output of `git config --global --list` showing your `user.name` and `user.email`
 
-Add your screenshot here.
+[Assignment 1 Screenshot 4.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-01/Assignment%201%20Screenshot%204.png)
 
 ---
 
