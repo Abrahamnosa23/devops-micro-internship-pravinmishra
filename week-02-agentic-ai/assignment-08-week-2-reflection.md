@@ -58,11 +58,7 @@ You can publish your blog on:
 
 Blog Link:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
-[LinkedIn Article](https://www.linkedin.com/pulse/reflection-week-2-building-smarter-workflows-agentic-ai-aigbokhan-kkvye)
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
+https://www.linkedin.com/pulse/reflection-week-2-building-smarter-workflows-agentic-ai-aigbokhan-kkvye
 
 ---
 
@@ -132,11 +128,7 @@ P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by 
 
 ### LinkedIn Post Link:
 
-<<<<<<< HEAD:week-02-agentic-ai/solution-assignment-08-Week-2-reflection.md
-[LinkedIn Post URL](https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_dmibypravinmishra-agenticai-claudecode-ugcPost-7481416896030912512-i5kM/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
-=======
-`Add your URL here`
->>>>>>> upstream/main:week-02-agentic-ai/assignment-08-week-2-reflection.md
+https://www.linkedin.com/posts/abraham-aigbokhan-3abb28214_dmibypravinmishra-agenticai-claudecode-ugcPost-7481416896030912512-i5kM/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADZFnjMBb3DIPPRNvWnnHBks2D59TA5vDHw)
 
 ---
 
