@@ -25,9 +25,9 @@ Confirm you are working in your own fork, then create a dedicated branch for thi
 
 ### Evidence
 
-#### Screenshot 1 — Output of git remote -v and git branch showing the new branch
+#### Screenshot 0 — Output of git remote -v and git branch showing the new branch
 
-Add your screenshot here.
+![Assignment 6 Screenshot 0.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-06/Assignment%206%20Screenshot%200.png)
 
 ---
 
@@ -35,7 +35,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated branch isolates my changes from the main codebase and allows me to test, review, and revert work safely if something goes wrong. It also makes the pull request easier to review because only the assignment changes are included.
 
 ---
 
@@ -49,7 +49,7 @@ On your own fork of this repository (the one you've been submitting your DMI wor
 
 #### Screenshot 1 — Output of  `git status` showing the staged file on feature/ai-pr-ready
 
-Add your screenshot here.
+![Assignment 6 Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-06/Assignment%206%20Screenshot%201.png)
 
 ---
 
@@ -57,7 +57,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+A fake key allows me to safely demonstrate how secret detection works without exposing actual credentials. Using a real secret could create a security risk and potentially compromise systems or accounts.
 
 ---
 
@@ -71,13 +71,13 @@ Create a tracked, shareable pre-commit hook that blocks a commit containing secr
 
 #### Screenshot 2 — `hooks/pre-commit` open in VS Code showing the full script
 
-Add your screenshot here.
+![Assignment 6 Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-06/Assignment%206%20Screenshot%202.png)
 
 ---
 
 #### Screenshot 3 — Output of `git config core.hooksPath` confirming it points to `hooks`
 
-Add your screenshot here.
+![Assignment 6 Screenshot 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-04-git-and-github/screenshots/Assignment-06/Assignment%206%20Screenshot%203.png)
 
 ---
 
@@ -85,13 +85,13 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+Tracking the hook in the repository allows every contributor to use the same checks. If it only existed in .git/hooks/, it would be local to one machine and would not be shared with the team.
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+The Git pre-commit hook intercepts a commit before it is created, while Claude's PreToolUse hook intercepts tool execution before the tool runs. Both act as preventative controls that stop risky actions before they happen.
 
 ---
 
@@ -119,7 +119,7 @@ Add your answer here.
 
 **2. Could this hook have caught a poorly-named variable that stores a secret without the `AKIA` prefix? What does that tell you about the limits of a fixed rule like this?**
 
-Add your answer here.
+No. The hook only detects patterns that match its predefined rules. If a secret does not match one of those patterns, the hook may miss it. This shows that fixed-rule systems are reliable but limited by the rules they are given.
 
 ---
 
@@ -153,7 +153,8 @@ Add your answer here.
 
 **2. The pre-commit hook and `/pr-ready` both looked at the same staged diff. Did they flag the same things? What did one catch that the other didn't?**
 
-Add your answer here.
+The skill is intended only to inspect and analyze staged changes. Removing Write permissions ensures it cannot modify files, commit code, push changes, or take actions on my behalf.
+Not exactly. The pre-commit hook detected the fake secret because it matched a predefined pattern. The AI skill also identified the secret but could additionally point out issues such as debug statements, mixed-purpose changes, poor naming, or unclear intent that are difficult to capture with fixed rules.
 
 ---
 
@@ -181,7 +182,7 @@ Add your screenshot here.
 
 **1. What exactly did you change to satisfy the pre-commit hook?**
 
-Add your answer here.
+I removed the fake hardcoded secret and deleted the leftover debug statement from the file. After staging the corrected version, the pre-commit hook no longer detected any violations and allowed the commit to proceed.
 
 ---
 
@@ -211,19 +212,19 @@ Add your PR URL here...
 
 **1. What, if anything, did you edit in the AI's drafted PR description before using it? Why?**
 
-Add your answer here.
+I reviewed the AI-generated draft and adjusted the wording to accurately reflect my implementation. I added missing context about the pre-commit hook and removed details that were not relevant to my specific changes.
 
 ---
 
 **2. If you had blindly copy-pasted the AI's draft without reading it, what could go wrong?**
 
-Add your answer here.
+The draft could contain incorrect assumptions, missing information, or descriptions that do not accurately represent the changes. This could confuse reviewers and reduce trust in the pull request.
 
 ---
 
 **3. Why does this PR need to target your own fork instead of the shared upstream repository?**
 
-Add your answer here.
+The assignment is for personal practice and verification. Opening the PR against my fork prevents assignment-specific files from being submitted to the shared class repository where they do not belong.
 
 ---
 
@@ -237,31 +238,31 @@ Explain this assignment's workflow using the same Gather → Analyze → Human A
 
 **1. Which step(s) represent Gather?**
 
-Add your answer here.
+The pre-commit hook scans staged files and the /pr-ready skill reads the staged diff. Both are gathering information from the pending changes.
 
 ---
 
 **2. Which step(s) represent Analyze?**
 
-Add your answer here.
+The hook analyzes files against predefined security rules, while the AI skill analyzes the staged diff for risks, context, and PR readiness.
 
 ---
 
 **3. Which step is Human Act, and why must a human — not Claude — run `git commit`, `git push`, and open the PR?**
 
-Add your answer here.
+Human Act occurs when I decide how to fix issues, run git commit, push the branch, and open the pull request. These actions should remain under human control because they affect the repository state and require accountability.
 
 ---
 
 **4. Which step is Verify?**
 
-Add your answer here.
+Verification occurs when I rerun the pre-commit checks, rerun /pr-ready, confirm the commit succeeds, and review the final pull request before submission.
 
 ---
 
 **5. In one or two sentences: why do you need *both* the fixed-rule pre-commit hook and the AI skill? Isn't one enough?**
 
-Add your answer here.
+The hook provides consistent enforcement of known security rules, while the AI skill provides context-aware review and judgment. Together they cover both predictable risks and issues that require interpretation.
 
 ---
 
@@ -283,9 +284,11 @@ Add your LinkedIn post URL here...
 
 Add 3-5 bullet points on what you learned this week.
 
--
--
--
+- Pre-commit hooks can prevent security issues before code is committed.
+- AI review complements but does not replace deterministic security controls.
+- Least-privilege principles apply to AI skills just as they do to users.
+- Human approval remains critical for commits, pushes, and pull requests.
+- The Agentic Loop helps structure secure and responsible automation.
 
 ---
 
