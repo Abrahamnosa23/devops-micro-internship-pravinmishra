@@ -35,7 +35,7 @@ Add your screenshot here.
 
 **1. Why create a dedicated branch instead of doing this work on main?**
 
-Add your answer here.
+A dedicated feature branch is used to keep the assignment changes isolated from the main branch, ensuring that the stable codebase remains protected while the work can be developed, tested, reviewed, and safely merged through the standard Pull Request process.
 
 ---
 
@@ -57,7 +57,7 @@ Add your screenshot here.
 
 **1. Why does this assignment use an obviously fake key instead of a real one?**
 
-Add your answer here.
+The assignment uses an obviously fake key to safely simulate a hardcoded secret without exposing or compromising any real credentials, systems, or sensitive information.
 
 ---
 
@@ -85,13 +85,13 @@ Add your screenshot here.
 
 **1. Why is `hooks/pre-commit` tracked in the repo instead of living only in `.git/hooks/`?**
 
-Add your answer here.
+hooks/pre-commit is tracked in the repository so the hook is version-controlled, shareable, and consistently available to all contributors, whereas .git/hooks/ is local to each developer's Git installation and is not included when the repository is cloned.
 
 ---
 
 **2. Compare this to `PreToolUse` from Week 2 Assignment 6. What does each one intercept, and what do they have in common?**
 
-Add your answer here.
+PreToolUse intercepts an AI agent’s tool call before the tool executes, while a Git pre-commit hook intercepts the commit operation before Git creates the commit; both act as preventive controls by inspecting the proposed action against defined rules and blocking it when a violation is detected.
 
 ---
 
