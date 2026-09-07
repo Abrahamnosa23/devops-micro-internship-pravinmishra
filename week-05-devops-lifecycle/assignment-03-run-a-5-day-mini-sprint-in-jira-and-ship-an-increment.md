@@ -20,13 +20,13 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-Add your screenshot here.
+[Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%201.png)
 
 ---
 
 #### Screenshot 2 — Active Sprint board showing the Sprint Goal
 
-Add your screenshot here.
+[Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%202.png)
 
 ---
 
@@ -40,25 +40,25 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-Add your screenshot here.
+[Screenshot 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%203.png)
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-Add your screenshot here.
+[Screenshot 4.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%204.png)
 
 ---
 
 #### Screenshot 5 — EC2 browser view showing the complete footer text, with the URL visible
 
-Add your screenshot here.
+[Screenshot 5.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%205.png)
 
 ---
 
 #### Screenshot 6 — Jira Story comment showing the Day 1 Daily Scrum update
 
-Add your screenshot here.
+[Screenshot 6.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%206.png)
 
 ---
 
@@ -72,25 +72,25 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic or deployment-time template snippet
 
-Add your screenshot here.
+[Screenshot 7.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%207.png)
 
 ---
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-Add your screenshot here.
+[Screenshot 8.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%208.png)
 
 ---
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-Add your screenshot here.
+[Screenshot 9.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%209.png)
 
 ---
 
 #### Screenshot 10 — Jira Story comment showing the Day 2 Daily Scrum update
 
-Add your screenshot here.
+[Screenshot 10.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2010.png)
 
 ---
 
@@ -104,19 +104,19 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 11 — Desktop EC2 view showing the polished footer
 
-Add your screenshot here.
+[Screenshot 11.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2011.png)
 
 ---
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-Add your screenshot here.
+[Screenshot 12.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2012.png)
 
 ---
 
 #### Screenshot 13 — Jira Story comment showing the Day 3 Daily Scrum update
 
-Add your screenshot here.
+[Screenshot 13.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2013.png)
 
 ---
 
@@ -130,7 +130,9 @@ Replace the existing homepage tagline with the required DMI Website call-to-acti
 
 #### Screenshot 14 — EC2 browser view showing "Start your DevOps Journey here" and the clickable "Visit the DMI Website" link
 
-Add your screenshot here.
+[Screenshot 14.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2014.png)
+
+[Screenshot 14-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2014-1.png)
 
 ---
 
@@ -144,19 +146,19 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 15 — Burndown Chart for Sprint 1
 
-Add your screenshot here.
+[Screenshot 15.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2015.png)
 
 ---
 
 #### Screenshot 16 — Jira retrospective comment
 
-Add your screenshot here.
+[Screenshot 16.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2016.png)
 
 ---
 
 #### Screenshot 17 — Final EC2 browser view showing the complete footer requirement
 
-Add your screenshot here.
+[Screenshot 17.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2017.png)
 
 ---
 
@@ -164,7 +166,7 @@ Add your screenshot here.
 
 Paste your unlisted YouTube or accessible Google Drive demo-video link here:
 
-`Add your URL here`
+https://www.loom.com/share/296ece44d69a4c24b98ba4677ed8803e
 
 ---
 
@@ -180,13 +182,13 @@ Publish a LinkedIn post about your five-day mini-Sprint, including your GitHub r
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+https://lnkd.in/p/eDndi4uZ
 
 ---
 
 #### LinkedIn Screenshot 1 — Published LinkedIn post showing the post content and at least one required link or proof image
 
-Add your screenshot here.
+[LinkedIn Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/LinkedIn%20Screenshot%201.png)
 
 ---
 
@@ -204,17 +206,17 @@ Add your screenshot here.
 
 # Completion Checklist
 
-- [ ] Task 1: Sprint 1 started with the required Sprint Goal (Screenshots 1 & 2)
-- [ ] Task 2: Day 1 footer implemented, committed, and deployed (Screenshots 3–6)
-- [ ] Task 3: Day 2 deploy date made dynamic and documented (Screenshots 7–10)
-- [ ] Task 4: Day 3 footer polished and validated on desktop and mobile (Screenshots 11–13)
-- [ ] Task 5: Day 4 DMI Website call-to-action deployed and clickable (Screenshot 14)
-- [ ] Task 6: Day 5 demo, retrospective, and Burndown evidence completed (Screenshots 15–17, video URL)
-- [ ] Daily Scrum comments posted for Days 1–5
-- [ ] LinkedIn post published with the GitHub URL, EC2 URL, required delivery details, and proof image
-- [ ] LinkedIn Post URL and LinkedIn Screenshot 1 included
-- [ ] Full Name visible in required screenshots
-- [ ] No sensitive data exposed
+- ✅ Task 1: Sprint 1 started with the required Sprint Goal (Screenshots 1 & 2)
+- ✅ Task 2: Day 1 footer implemented, committed, and deployed (Screenshots 3–6)
+- ✅ Task 3: Day 2 deploy date made dynamic and documented (Screenshots 7–10)
+- ✅ Task 4: Day 3 footer polished and validated on desktop and mobile (Screenshots 11–13)
+- ✅ Task 5: Day 4 DMI Website call-to-action deployed and clickable (Screenshot 14)
+- ✅ Task 6: Day 5 demo, retrospective, and Burndown evidence completed (Screenshots 15–17, video URL)
+- ✅ Daily Scrum comments posted for Days 1–5
+- ✅ LinkedIn post published with the GitHub URL, EC2 URL, required delivery details, and proof image
+- ✅ LinkedIn Post URL and LinkedIn Screenshot 1 included
+- ✅ Full Name visible in required screenshots
+- ✅ No sensitive data exposed
 
 ---
 
