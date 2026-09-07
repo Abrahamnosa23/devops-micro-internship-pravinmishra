@@ -20,13 +20,13 @@ Create the footer Story (`Add footer with version and deploy date`, 1 point, `fr
 
 #### Screenshot 1 — Sprint 1 created with the Story inside it
 
-[Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%201.png)
+![Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%201.png)
 
 ---
 
 #### Screenshot 2 — Active Sprint board showing the Sprint Goal
 
-[Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%202.png)
+![Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%202.png)
 
 ---
 
@@ -40,25 +40,25 @@ Add the required footer text (`Pravin Mishra Portfolio v1.0 — Deployed on <DD 
 
 #### Screenshot 3 — Jira board showing the Day 1 Sub-task in Done
 
-[Screenshot 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%203.png)
+![Screenshot 3.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%203.png)
 
 ---
 
 #### Screenshot 4 — Successful Git commit output
 
-[Screenshot 4.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%204.png)
+![Screenshot 4.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%204.png)
 
 ---
 
 #### Screenshot 5 — EC2 browser view showing the complete footer text, with the URL visible
 
-[Screenshot 5.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%205.png)
+![Screenshot 5.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%205.png)
 
 ---
 
 #### Screenshot 6 — Jira Story comment showing the Day 1 Daily Scrum update
 
-[Screenshot 6.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%206.png)
+![Screenshot 6.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%206.png)
 
 ---
 
@@ -72,25 +72,25 @@ Update the footer so the deployment date is generated automatically (or updated 
 
 #### Screenshot 7 — Code editor showing the footer and date logic or deployment-time template snippet
 
-[Screenshot 7.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%207.png)
+![Screenshot 7.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%207.png)
 
 ---
 
 #### Screenshot 8 — EC2 browser view showing the updated footer with the current date
 
-[Screenshot 8.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%208.png)
+![Screenshot 8.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%208.png)
 
 ---
 
 #### Screenshot 9 — README snippet documenting the footer and date behavior
 
-[Screenshot 9.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%209.png)
+![Screenshot 9.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%209.png)
 
 ---
 
 #### Screenshot 10 — Jira Story comment showing the Day 2 Daily Scrum update
 
-[Screenshot 10.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2010.png)
+![Screenshot 10.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2010.png)
 
 ---
 
@@ -104,19 +104,19 @@ Improve the footer's spacing, contrast, and readability, then validate it at bot
 
 #### Screenshot 11 — Desktop EC2 view showing the polished footer
 
-[Screenshot 11.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2011.png)
+![Screenshot 11.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2011.png)
 
 ---
 
 #### Screenshot 12 — Mobile responsive view showing the footer remains readable
 
-[Screenshot 12.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2012.png)
+![Screenshot 12.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2012.png)
 
 ---
 
 #### Screenshot 13 — Jira Story comment showing the Day 3 Daily Scrum update
 
-[Screenshot 13.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2013.png)
+![Screenshot 13.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2013.png)
 
 ---
 
@@ -130,9 +130,9 @@ Replace the existing homepage tagline with the required DMI Website call-to-acti
 
 #### Screenshot 14 — EC2 browser view showing "Start your DevOps Journey here" and the clickable "Visit the DMI Website" link
 
-[Screenshot 14.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2014.png)
+![Screenshot 14.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2014.png)
 
-[Screenshot 14-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2014-1.png)
+![Screenshot 14-1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2014-1.png)
 
 ---
 
@@ -146,19 +146,19 @@ Record a two-to-three-minute demo video of the shipped footer, add a retrospecti
 
 #### Screenshot 15 — Burndown Chart for Sprint 1
 
-[Screenshot 15.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2015.png)
+![Screenshot 15.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2015.png)
 
 ---
 
 #### Screenshot 16 — Jira retrospective comment
 
-[Screenshot 16.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2016.png)
+![Screenshot 16.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2016.png)
 
 ---
 
 #### Screenshot 17 — Final EC2 browser view showing the complete footer requirement
 
-[Screenshot 17.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2017.png)
+![Screenshot 17.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-05-devops-lifecycle/screenshots/Assignment-03/Screenshot%2017.png)
 
 ---
 
