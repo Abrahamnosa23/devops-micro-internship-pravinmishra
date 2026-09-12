@@ -98,7 +98,12 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+- "Apply Now" button on Job Detail page
+  Why: Directly drives the site's core action (applying). High value, trivial to build.
+- Primary button color contrast
+  Why: Cheap fix, improves usability sitewide since it touches all primary buttons.
+- "Remote" badge on job cards
+  Why: Helps users scan listings faster — real discoverability value, but needs conditional logic so slightly bigger than a 1.
 
 ---
 
