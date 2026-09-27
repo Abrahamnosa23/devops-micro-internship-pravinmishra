@@ -1,6 +1,6 @@
 # Assignment 3 — CodeTrack: Branching Workflow (Add & Verify a Contact Page)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -158,7 +158,7 @@ Display the repository history as a graph and locate both feature commits.
 
 ---
 
-# Task 8 — Optional Cleanup (Delete the Feature Branch)
+# Task 8 — Cleanup (Delete the Feature Branch)
 
 ## Goal
 
@@ -174,7 +174,7 @@ Delete the merged `feature/contact-page` branch to keep your branch list clean.
 
 # Submission Instructions
 
-- Tasks 1–7 are required; Task 8 is optional
+- Tasks 1–8 is completed.
 - Add all required screenshots in your submission
 - Evidence must show `contact.html` and the homepage link were absent before merging, and working after merging
 - Do not expose passwords, access tokens, or private keys
@@ -215,4 +215,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*

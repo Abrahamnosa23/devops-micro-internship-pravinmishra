@@ -1,6 +1,6 @@
 # Assignment 7 — A Claude That Remembers
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 

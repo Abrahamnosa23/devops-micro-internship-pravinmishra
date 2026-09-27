@@ -1,6 +1,6 @@
 # Week 01 — Success Mindset (Mindset OS)
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -426,9 +426,9 @@ Examples:
 
 ---
 
-# Reflection – Week 1
+## Task 8 — Week 1 Reflection and Proof of Work
 
-### Biggest insight I got about myself this week
+### Biggest Insight I Got About Myself This Week
 
 I realized that structure and discipline matter more than motivation. When I planned my work clearly, I stayed focused and productive, but without structure, I got distracted.
 I also learned that my success depends on consistent routines, not occasional effort. Even small, repeated actions led to noticeable progress.
@@ -440,7 +440,7 @@ My biggest weakness is falling into cycles of inconsistency when I don’t follo
 I also observed that distractions, especially from my phone or unplanned activities, break my focus and reduce the quality of my deep work. Instead of continuing with discipline, I sometimes rely on how I feel in the moment, which affects my consistency.
 This loop made me realize that my main challenge is not ability, but staying disciplined and sticking to the systems I set for myself.
 
-### One system I will implement from this week (exact habit + time)
+### One System I Will Implement From This Week (Exact Habit and Time)
 
 I will implement a daily deep work system every morning from 5:00 AM to 7:00 AM, Monday to Thursday.
 During this time:

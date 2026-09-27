@@ -1,6 +1,6 @@
 # Assignment 1 — Creating an AWS Free Tier Account & Setting Up Budget Management and Alerts
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 

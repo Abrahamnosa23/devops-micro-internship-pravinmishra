@@ -1,6 +1,6 @@
 # Assignment 4 — Building Your AI Team
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) Cohort with Agentic AI
 
 ---
 

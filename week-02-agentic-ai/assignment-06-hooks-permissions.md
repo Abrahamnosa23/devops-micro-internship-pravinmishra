@@ -1,6 +1,6 @@
 # Assignment 6 — Safety Rails for Your AI Agent
 
-Part of the DevOps Micro Internship (DMI) Cohort 3 with Agentic AI
+Part of the DevOps Micro Internship (DMI) with Agentic AI
 
 ---
 
@@ -135,7 +135,7 @@ Prove the logging hook runs after a successful command execution and records Ter
 Complete all tasks in sequence.
 
 Your submission must include:
-- All 9 required screenshots
+- All 10 required screenshots
 
 ---
 
