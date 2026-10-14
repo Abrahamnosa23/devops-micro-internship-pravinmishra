@@ -34,13 +34,38 @@ Record the AWS Region used and list every AWS service used across networking, co
 
 **Region:**
 
-Write your answer here.
+- us-east-1 (N.Virginia)
 
 ---
 
 **Services:**
 
-Write your answer here.
+Networking
+- VPC
+- Subnets
+- Internet Gateway
+- NAT gateway
+- Route Tables
+- Security Groups
+- NACLs
+
+Compute
+- EC2
+- Auto-Scaling
+- Nginx
+
+Load Balancing
+- Application Load Balancer (public)
+- Internal Load Balancer (Private)
+
+Security
+- Security Groups
+- NACLs
+
+Database
+- Amazon RDS (MySQL)
+- Read Replica
+- Multi-AZ
 
 ---
 
