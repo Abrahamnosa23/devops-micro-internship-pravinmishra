@@ -152,7 +152,7 @@ Run EpicBook on port 8080 and connect its Sequelize models to bookstore in RDS.
 
 ---
 
-#### Screenshot 15 — Terminal showing EpicBook running, or ss -tulpn output showing port 8080 listening
+#### Screenshot 15 — Terminal showing the backend running, or `ss -tulpn` showing the port open
 
 ![Screenshot 15.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-06-aws-cloud/screenshots/assignment-04/Screenshot%2015.png)
 
@@ -221,16 +221,16 @@ Verify the public application and its use of the imported RDS data.
 
 # Completion Checklist
 
-- [ ] Task 1: VPC, public/private subnets, IGW, and public routing created (Screenshots 1–3)
-- [ ] Task 2: Least-privilege EC2 and RDS security groups created (Screenshots 4–5)
-- [ ] Task 3: Ubuntu EC2 launched in the public subnet with SSH verified (Screenshots 6–7)
-- [ ] Task 4: Node.js, npm, Nginx, and MySQL client installed (Screenshots 8–10)
-- [ ] Task 5: Private MySQL RDS created with no public access (Screenshots 11–12)
-- [ ] Task 6: Database initialized from the SQL dump (Screenshot 13)
-- [ ] Task 7: Backend deployed and responding on port 3000 (Screenshots 14–16)
-- [ ] Task 8: Nginx serving the frontend and reverse-proxying to the backend (Screenshots 17–18)
-- [ ] Task 9: Frontend, backend, and RDS verified end to end (Screenshots 19–21)
-- [ ] No sensitive data exposed
+- ✅ Task 1: VPC, public/private subnets, IGW, and public routing created (Screenshots 1–3)
+- ✅ Task 2: Least-privilege EC2 and RDS security groups created (Screenshots 4–5)
+- ✅ Task 3: Ubuntu EC2 launched in the public subnet with SSH verified (Screenshots 6–7)
+- ✅ Task 4: Node.js, npm, Nginx, and MySQL client installed (Screenshots 8–10)
+- ✅ Task 5: Private MySQL RDS created with no public access (Screenshots 11–12)
+- ✅ Task 6: Database initialized from the SQL dump (Screenshot 13)
+- ✅ Task 7: Backend deployed and responding on port 3000 (Screenshots 14–16)
+- ✅ Task 8: Nginx serving the frontend and reverse-proxying to the backend (Screenshots 17–18)
+- ✅ Task 9: Frontend, backend, and RDS verified end to end (Screenshots 19–21)
+- ✅ No sensitive data exposed
 
 ---
 
@@ -254,4 +254,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
