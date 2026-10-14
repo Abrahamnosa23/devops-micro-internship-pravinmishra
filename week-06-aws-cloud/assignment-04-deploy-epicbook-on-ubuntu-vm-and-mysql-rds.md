@@ -14,7 +14,7 @@ In this assignment, you will deploy the EpicBook web application in AWS using a 
 
 ## Goal
 
-Create `epicbook-vpc` (10.0.0.0/16) with a public subnet (10.0.1.0/24) and a private subnet (10.0.2.0/24), attach an Internet Gateway, and route only the public subnet to it.
+Create the AWS network for the EpicBook deployment with a public subnet for the EC2 instance and private subnets for Amazon RDS MySQL.
 
 ### Evidence
 
@@ -24,7 +24,7 @@ Create `epicbook-vpc` (10.0.0.0/16) with a public subnet (10.0.1.0/24) and a pri
 
 ---
 
-#### Screenshot 2 — Subnets list showing both subnets and their CIDRs
+#### Screenshot 2 — Subnets list showing the public subnet and both private database subnets with their CIDR ranges.
 
 ![Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-06-aws-cloud/screenshots/assignment-04/Screenshot%202.png)
 
@@ -42,7 +42,7 @@ Create `epicbook-vpc` (10.0.0.0/16) with a public subnet (10.0.1.0/24) and a pri
 
 ## Goal
 
-Create `epicbook-ec2-sg` (SSH from your IP, HTTP/HTTPS public) and `epicbook-rds-sg` (MySQL 3306 only from `epicbook-ec2-sg`).
+Create security groups that allow users to access the EpicBook application while restricting database access to the EC2 instance.
 
 ### Evidence
 
@@ -62,7 +62,7 @@ Create `epicbook-ec2-sg` (SSH from your IP, HTTP/HTTPS public) and `epicbook-rds
 
 ## Goal
 
-Launch an Ubuntu 20.04 instance in the public subnet with `epicbook-ec2-sg` attached, and connect to it over SSH.
+Launch the EC2 instance that will host the EpicBook application and connect to it through SSH.
 
 ### Evidence
 
@@ -82,7 +82,7 @@ Launch an Ubuntu 20.04 instance in the public subnet with `epicbook-ec2-sg` atta
 
 ## Goal
 
-Install Node.js, npm, Nginx, and the MySQL client on the instance, and confirm Nginx is running.
+Prepare Ubuntu to download and run EpicBook, receive HTTP traffic, and connect to RDS.
 
 ### Evidence
 
@@ -108,7 +108,7 @@ Install Node.js, npm, Nginx, and the MySQL client on the instance, and confirm N
 
 ## Goal
 
-Create a private MySQL RDS instance in `epicbook-vpc` using a DB Subnet Group over the private subnet, with `epicbook-rds-sg` attached and public access disabled.
+Launch a private MySQL database accessible only from the application EC2 security group.
 
 ### Evidence
 
@@ -128,7 +128,7 @@ Create a private MySQL RDS instance in `epicbook-vpc` using a DB Subnet Group ov
 
 ## Goal
 
-Connect to RDS from EC2, create the `epicbook` database, and import the provided SQL dump.
+Download EpicBook and populate bookstore with the schema, authors, and books required by the application.
 
 ### Evidence
 
@@ -142,7 +142,7 @@ Connect to RDS from EC2, create the `epicbook` database, and import the provided
 
 ## Goal
 
-Clone the EpicBook repository, install backend dependencies, configure `.env` with the RDS endpoint and credentials, and start the backend on port 3000.
+Run EpicBook on port 8080 and connect its Sequelize models to bookstore in RDS.
 
 ### Evidence
 
@@ -152,7 +152,7 @@ Clone the EpicBook repository, install backend dependencies, configure `.env` wi
 
 ---
 
-#### Screenshot 15 — Terminal showing the backend running, or `ss -tulpn` showing the port open
+#### Screenshot 15 — Terminal showing EpicBook running, or ss -tulpn output showing port 8080 listening
 
 ![Screenshot 15.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-06-aws-cloud/screenshots/assignment-04/Screenshot%2015.png)
 
@@ -166,11 +166,11 @@ Clone the EpicBook repository, install backend dependencies, configure `.env` wi
 
 ---
 
-# Task 8 — Serve Frontend Using Nginx + Reverse Proxy to Backend
+# Task 8 — Configure Nginx as a Reverse Proxy and Enable Persistence.
 
 ## Goal
 
-Copy the frontend files to the Nginx web root and configure Nginx to reverse-proxy `/api/` to the Node backend.
+Expose EpicBook through Nginx on port 80 and keep its Node.js process running after SSH disconnects and server reboots.
 
 ### Evidence
 
@@ -180,7 +180,7 @@ Copy the frontend files to the Nginx web root and configure Nginx to reverse-pro
 
 ---
 
-#### Screenshot 18 — Nginx configuration snippet showing the `/api/` reverse proxy
+#### Screenshot 18 — Nginx configuration snippet showing location / forwarding requests to http://127.0.0.1:8080
 
 ![Screenshot 18.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-06-aws-cloud/screenshots/assignment-04/Screenshot%2018.png)
 
@@ -190,7 +190,7 @@ Copy the frontend files to the Nginx web root and configure Nginx to reverse-pro
 
 ## Goal
 
-Verify the frontend loads publicly, the backend responds through Nginx, and EC2 can query the private RDS database.
+Verify the public application and its use of the imported RDS data.
 
 ### Evidence
 
@@ -200,7 +200,7 @@ Verify the frontend loads publicly, the backend responds through Nginx, and EC2 
 
 ---
 
-#### Screenshot 20 — Terminal showing a successful API call through the public endpoint, such as `curl http://<EC2_PUBLIC_IP>/api/...`
+#### Screenshot 20 — Terminal showing a successful HTTP request to EpicBook through the public Nginx endpoint using curl -i http://<EC2_PUBLIC_IP>/
 
 ![Screenshot 20.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-06-aws-cloud/screenshots/assignment-04/Screenshot%2020.png)
 
@@ -221,16 +221,16 @@ Verify the frontend loads publicly, the backend responds through Nginx, and EC2 
 
 # Completion Checklist
 
-- ✅ Task 1: VPC, public/private subnets, IGW, and public routing created (Screenshots 1–3)
-- ✅ Task 2: Least-privilege EC2 and RDS security groups created (Screenshots 4–5)
-- ✅ Task 3: Ubuntu EC2 launched in the public subnet with SSH verified (Screenshots 6–7)
-- ✅ Task 4: Node.js, npm, Nginx, and MySQL client installed (Screenshots 8–10)
-- ✅ Task 5: Private MySQL RDS created with no public access (Screenshots 11–12)
-- ✅ Task 6: Database initialized from the SQL dump (Screenshot 13)
-- ✅ Task 7: Backend deployed and responding on port 3000 (Screenshots 14–16)
-- ✅ Task 8: Nginx serving the frontend and reverse-proxying to the backend (Screenshots 17–18)
-- ✅ Task 9: Frontend, backend, and RDS verified end to end (Screenshots 19–21)
-- ✅ No sensitive data exposed
+- [ ] Task 1: VPC, public/private subnets, IGW, and public routing created (Screenshots 1–3)
+- [ ] Task 2: Least-privilege EC2 and RDS security groups created (Screenshots 4–5)
+- [ ] Task 3: Ubuntu EC2 launched in the public subnet with SSH verified (Screenshots 6–7)
+- [ ] Task 4: Node.js, npm, Nginx, and MySQL client installed (Screenshots 8–10)
+- [ ] Task 5: Private MySQL RDS created with no public access (Screenshots 11–12)
+- [ ] Task 6: Database initialized from the SQL dump (Screenshot 13)
+- [ ] Task 7: Backend deployed and responding on port 3000 (Screenshots 14–16)
+- [ ] Task 8: Nginx serving the frontend and reverse-proxying to the backend (Screenshots 17–18)
+- [ ] Task 9: Frontend, backend, and RDS verified end to end (Screenshots 19–21)
+- [ ] No sensitive data exposed
 
 ---
 
@@ -254,4 +254,4 @@ It helps learners build strong DevOps foundations with hands-on experience.
 
 ---
 
-*This submission is part of DevOps Micro Internship (DMI) Cohort 3 — Agentic AI Track.*
+*This submission is part of DevOps Micro Internship (DMI) — Agentic AI Track.*
