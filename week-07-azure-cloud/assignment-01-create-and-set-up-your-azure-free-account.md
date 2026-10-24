@@ -30,13 +30,13 @@ Confirm successful Azure Portal access and Locate the required services and subs
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-Add your screenshot here.
+[Screenshot 1.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-07-azure-cloud/screenshots/assignment-01/Screenshot%201.png)
 
 ---
 
 #### Screenshot 2 — "Subscriptions" section showing the "Free Trial" subscription
 
-Add your screenshot here.
+[Screenshot 2.png](https://github.com/Abrahamnosa23/devops-micro-internship-pravinmishra/blob/main/week-07-azure-cloud/screenshots/assignment-01/Screenshot%202.png)
 
 ---
 
@@ -44,7 +44,7 @@ Add your screenshot here.
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+As a DevOps engineer starting with Azure, I plan to explore Azure Pipelines and Azure Resource Manager (ARM) / Bicep first. Mastering Azure Pipelines is essential for building robust CI/CD workflows and automating application deployments, while learning ARM templates and Bicep will allow me to provision and manage cloud infrastructure reliably using Infrastructure as Code (IaC) principles.
 
 ---
 
@@ -57,12 +57,12 @@ Write your answer here.
 
 # Completion Checklist
 
-- [ ] Azure Free Account created with identity, phone, and payment verification completed
-- [ ] Microsoft Agreement and Offer Terms accepted
-- [ ] Azure Portal accessed successfully (Screenshot 1)
-- [ ] Free Trial subscription confirmed (Screenshot 2)
-- [ ] Reflection paragraph written (Notes)
-- [ ] No sensitive information exposed
+- ✅ Azure Free Account created with identity, phone, and payment verification completed
+- ✅ Microsoft Agreement and Offer Terms accepted
+- ✅ Azure Portal accessed successfully (Screenshot 1)
+- ✅ Free Trial subscription confirmed (Screenshot 2)
+- ✅ Reflection paragraph written (Notes)
+- ✅ No sensitive information exposed
 
 ---
 
